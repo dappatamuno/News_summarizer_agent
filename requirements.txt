@@ -1,0 +1,6 @@
+streamlit
+newspaper3k
+transformers
+sentence-transformers
+faiss-cpu
+yake
