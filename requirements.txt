@@ -1,0 +1,7 @@
+streamlit
+feedparser
+transformers
+torch
+newspaper3k
+beautifulsoup4
+requests
