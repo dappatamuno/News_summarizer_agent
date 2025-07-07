@@ -4,7 +4,7 @@ from summarize import summarize_article
 from categories import categorize
 
 st.set_page_config(page_title="News Summarizer", layout="wide")
-st.title("AI News Aggregator & Summarizer")
+st.title("News Aggregator & Summarizer")
 
 st.sidebar.title("Options")
 refresh = st.sidebar.button("🔄 Refresh News")
